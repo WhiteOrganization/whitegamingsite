@@ -5,7 +5,7 @@ This is the version control of our website.
 This will summarize all our social networks, information about our channels, and some social engagement.
 
 ### 1.1) Quick summary
-This works as a published version and host for our site http://gaming.whiteweb.tech
+This works as a published version and host for our site http://gaming.whiteweb.mx
 
 [//]: # (### 1.2&#41; Disclosure)
 [//]: # (Any required disclosures?)
@@ -53,7 +53,7 @@ _Required for Pull Requests._
 <tr><td>admin / developer</td><td><a href='mailto:obed.vazquez@gmail.com'>obed.vazquez@gmail.com</a></td></tr>
 
 [//]: # (<tr><td>Supporters</td><td>we have supporters with knowledge on the setup process of the project only</td></tr>)
-<tr><td>Community</td><td> send us a message in <a href='http://discord.whiteweb.tech'> our Discord Server</a></td></tr>
+<tr><td>Community</td><td> send us a message in <a href='http://discord.whiteweb.mx'> our Discord Server</a></td></tr>
 </table>
 
 >Please contact me if you want to help, I'm developing and maintaining and supporting in general this project 
